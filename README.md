@@ -1,8 +1,9 @@
 # Unsilenced
-
-> **An Expressive AAC System That Restores the Human Element of Communication**
+### An expressive AAC System that helps the specially-abled reclaim their voices and connect emotionably
 
 Unsilenced is a hands-free AAC communication tool that uses nose tracking and real-time emotion detection to generate expressive speech through Fish Audio API. Built for **MadHacks 2025 - Fish API Track**.
+
+Won MadHacks 2025. DevPost : https://devpost.com/software/unsilenced-oml4g5
 
 ## About
 
@@ -294,12 +295,4 @@ Edit `next-ui/src/app/app/page.tsx` to adjust emotion detection thresholds:
 
 MIT License - Feel free to use for your projects!
 
-## Credits
 
-Built for **MadHacks 2025 - Fish API Track** - Combining accessibility with cutting-edge AI for expressive communication.
-
-**Unsilenced** - Because communication should sound human, not robotic.
-
----
-
-**Made with love for accessibility**
